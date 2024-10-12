@@ -4,7 +4,22 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -1979725800891620054
-    second: BobbyPlayer_0
+    second: payaso_head
+  - first:
+      213: -7517031066391722188
+    second: payaso_DerechPie
+  - first:
+      213: 6240225614133435468
+    second: payaso_IzquPie
+  - first:
+      213: -879192392540986101
+    second: payaso_cheester
+  - first:
+      213: 3218022678433816131
+    second: payaso_IzquMano
+  - first:
+      213: 8707519407052754012
+    second: payaso_DerechMano
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -95,15 +110,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BobbyPlayer_0
+      name: payaso_head
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 638
-        height: 638
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 285
+        y: 496
+        width: 183
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5118343, y: 0.039586827}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
@@ -115,6 +130,111 @@ TextureImporter:
       bones: []
       spriteID: a25ed258fd99684e0800000000000000
       internalID: -1979725800891620054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: payaso_DerechPie
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 148
+        width: 126
+        height: 104
+      alignment: 9
+      pivot: {x: 0.2765601, y: 0.9372946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437452272142ea790800000000000000
+      internalID: -7517031066391722188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: payaso_IzquPie
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 126
+        height: 111
+      alignment: 9
+      pivot: {x: 0.7578153, y: 0.9227244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c97b8422cb99650800000000000000
+      internalID: 6240225614133435468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: payaso_cheester
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 203
+        width: 103
+        height: 94
+      alignment: 9
+      pivot: {x: 0.46495724, y: 0.4923206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b056e595d2b7cc3f0800000000000000
+      internalID: -879192392540986101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: payaso_IzquMano
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 250
+        width: 85
+        height: 138
+      alignment: 9
+      pivot: {x: 0.9246373, y: 0.9080209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ed2338396b8ac20800000000000000
+      internalID: 3218022678433816131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: payaso_DerechMano
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 252
+        width: 77
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c033c24c257d870800000000000000
+      internalID: 8707519407052754012
       vertices: []
       indices: 
       edges: []
